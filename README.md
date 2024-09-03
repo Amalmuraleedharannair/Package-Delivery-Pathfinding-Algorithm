@@ -3,7 +3,7 @@
 ## WGUPS Routing Program
 
 <p align="center">
-<img src="https://imgur.com/a/6xDK7II" height="80%" width="80%" alt="Frankie Grande, Ariana Grande et al. are posing for a picture"/>
+<img src="https://i.imgur.com/BPIc0HG.jpg" height="80%" width="80%" alt="Frankie Grande, Ariana Grande et al. are posing for a picture"/>
 </p>
 
 ### [YouTube Explanation with Demonstration](https://youtu.be/lHeVDmgpKy4)
