@@ -13,7 +13,7 @@ This is a project specified by WGU to solve a package delivery routing problem, 
 To get the code run this from the command line:
 
 ```commandline
-git clone https://github.com/joshmadakor1/C950.git
+https://github.com/Amalmuraleedharannair/Package-Delivery-Pathfinding-Algorithm.git
 ```
 
 Once that is done, in the main directory where `main.py` is located run:
